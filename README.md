@@ -1,5 +1,4 @@
-The Website and code presented in this github page is part of a project, created for the award of Degree - Bachelor's of Computer Science and Engineering from 
-## Galgotias University.
+The Website and code presented in this github page is part of a project, created for the award of Degree - Bachelor's of Computer Science and Engineering from Galgotias University.
 
 ## This repository is the sole property of Vaibhab Kumar Yadav and Shivam Singh.
 
