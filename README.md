@@ -1,3 +1,7 @@
+The Website and code presented in this github page is part of a project, created for the award of Degree - Bachelor's of Computer Science from Galgotias University.
+
+This repository is the sole property of Vaibhab Kumar Yadav and Shivam Singh
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Vaibhavkumar7/SEM-7/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
